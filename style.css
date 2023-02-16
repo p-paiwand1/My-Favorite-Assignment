@@ -1,0 +1,45 @@
+html{
+  background: url("img/travel-the-world.png") no-repeat center fixed;
+  background-size: cover;
+}
+
+body {
+  background-color: rgba(0, 162, 255, 0.3);
+  border-radius: 80px;
+  width: 600px ;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+a {
+  color: blueviolet;
+}
+
+a:hover {
+  font-weight: bold;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 25px ;
+  text-decoration: underline;
+  font: size 50px;;
+}
+
+.yellow {
+  color: #fcb041;
+}
+
+.pink {
+  color: #ff69b4;
+}
+
+.green {
+  color: #32cd32;
+}
